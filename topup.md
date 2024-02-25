@@ -29,5 +29,5 @@ Daftar akun garansi harga murah klik [DISINI](https://www.ifgameshop.com/?a=topu
 [[ALL LOGIN]](https://ifgameshop.com/id/arena-of-valor-lg)
 
 ###  24 JAM SUPER FAST
-[![EPEP](https://play-lh.googleusercontent.com/La2XvLnJqNI5JyshQ5RfxM18zHduji9KPgNge93Ibwpjc7znBZVYuuwJ4ycGk6T-DQ=w480-h960-rw)](https://ifgameshop.com/id/free-fire)
+[![EPEP](https://play-lh.googleusercontent.com/La2XvLnJqNI5JyshQ5RfxM18zHduji9KPgNge93Ibwpjc7znBZVYuuwJ4ycGk6T-DQ=w480-h960-rw)]{width=50px}(https://ifgameshop.com/id/free-fire)
 
