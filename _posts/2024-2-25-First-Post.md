@@ -1,7 +1,7 @@
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
-|     |  1  |  2  |  3  |  4  |  5  |[6](#)|
-|  7  |  8  |  9  | 10  | 11  | 12  |[13](#)|
-| 14  | 15  | 16  | 17  | 18  | 19  |[20](#)|
-| 21  | 22  | 23  | 24  | 25  | 26  |[27](#)|
-| 28  | 29  | 30  | 31  |     |     |     |
+|<span style="color:red">     </span>|<span style="color:black">  1  </span>|<span style="color:black">  2  </span>|<span style="color:black">  3  </span>|<span style="color:black">  4  </span>|<span style="color:black">  5  </span>|<span style="color:red">  6  </span>|
+|<span style="color:black">  7  </span>|<span style="color:black">  8  </span>|<span style="color:black">  9  </span>|<span style="color:black"> 10  </span>|<span style="color:black"> 11  </span>|<span style="color:black"> 12  </span>|<span style="color:red"> 13  </span>|
+|<span style="color:black"> 14  </span>|<span style="color:black"> 15  </span>|<span style="color:black"> 16  </span>|<span style="color:black"> 17  </span>|<span style="color:black"> 18  </span>|<span style="color:black"> 19  </span>|<span style="color:red"> 20  </span>|
+|<span style="color:black"> 21  </span>|<span style="color:black"> 22  </span>|<span style="color:black"> 23  </span>|<span style="color:black"> 24  </span>|<span style="color:black"> 25  </span>|<span style="color:black"> 26  </span>|<span style="color:red"> 27  </span>|
+|<span style="color:black"> 28  </span>|<span style="color:black"> 29  </span>|<span style="color:black"> 30  </span>|<span style="color:black"> 31  </span>|<span style="color:red">     </span>|<span style="color:red">     </span>|<span style="color:red">     </span>|
