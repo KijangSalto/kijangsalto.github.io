@@ -1,21 +1,43 @@
----
-layout: post
-title: Top Up Coy?
----
-<h2>May 2024</h2>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kalender</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: center;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+    .sabtu, .minggu {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Mei 2024</h2>
 
 <table>
   <tr>
-    <th>Sun</th>
-    <th>Mon</th>
-    <th>Tue</th>
-    <th>Wed</th>
-    <th>Thu</th>
-    <th>Fri</th>
-    <th>Sat</th>
+    <th class="minggu">Minggu</th>
+    <th>Senin</th>
+    <th>Selasa</th>
+    <th>Rabu</th>
+    <th>Kamis</th>
+    <th>Jumat</th>
+    <th class="sabtu">Sabtu</th>
   </tr>
   <tr>
-    <td></td>
+    <td class="minggu"></td>
     <td></td>
     <td></td>
     <td></td>
@@ -23,49 +45,8 @@ title: Top Up Coy?
     <td></td>
     <td>1</td>
   </tr>
-  <tr>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-    <td>7</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>10</td>
-    <td>11</td>
-    <td>12</td>
-    <td>13</td>
-    <td>14</td>
-    <td>15</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>17</td>
-    <td>18</td>
-    <td>19</td>
-    <td>20</td>
-    <td>21</td>
-    <td>22</td>
-  </tr>
-  <tr>
-    <td>23</td>
-    <td>24</td>
-    <td>25</td>
-    <td>26</td>
-    <td>27</td>
-    <td>28</td>
-    <td>29</td>
-  </tr>
-  <tr>
-    <td>30</td>
-    <td>31</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+  <!-- Sisanya dari tabel -->
 </table>
+
+</body>
+</html>
