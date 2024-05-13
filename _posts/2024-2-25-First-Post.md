@@ -2,29 +2,6 @@
 layout: post
 title: Top Up Coy?
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Calendar</title>
-  <style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-    th, td {
-      border: 1px solid black;
-      padding: 8px;
-      text-align: center;
-    }
-    th {
-      background-color: #f2f2f2;
-    }
-  </style>
-</head>
-<body>
-
 <h2>May 2024</h2>
 
 <table>
@@ -92,6 +69,3 @@ title: Top Up Coy?
     <td></td>
   </tr>
 </table>
-
-</body>
-</html>
