@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Halo! Ini cuma notebook pribadiku. Kalau hal yang kamu cari gak ada disini, karena memang bukan tempatnya.
 
-### More Information
+### Gak Tau Males Cuma Pengen Pamer Sertifikat 😎
 
-A place to include any other types of kn that you'd like to include about yourself.
+![certi](6272)
 
-### Contact me
+### Kontak Saya
 
 [rheizafahrezi@gmail.com](mailto:rheizafahrezi@gmail.com)
