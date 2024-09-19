@@ -8,7 +8,7 @@ Halo! Ini cuma notebook pribadiku. Kalau hal yang kamu cari gak ada disini, kare
 
 ### Gak Tau Males Cuma Pengen Pamer Sertifikat 😎
 
-![certi](6272)
+<img src="{{ site.baseurl }}/images/certificate.png" alt="serti">
 
 ### Kontak Saya
 
