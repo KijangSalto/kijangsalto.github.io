@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Materi Soldering
+title: Soldering
 ---
 SOON!
